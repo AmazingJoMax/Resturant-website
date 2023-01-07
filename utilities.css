@@ -1,0 +1,62 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+.img-rounded{
+    border-radius: 10px;
+}
+
+.clearfix{
+    clear: both;
+    float: none;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.flex{
+    display: flex;
+}
+
+.grid{
+    display: grid;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.gap-10{
+    gap: 10px;
+}
+
+.gap-15{
+    gap: 15px;
+}
+
+.gap-20{
+    gap: 20px;
+}
